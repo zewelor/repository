@@ -36,6 +36,7 @@
     "share:rw",
     "ssl"
   ],
+  "video": true,
   "options": {
     "motion_webcontrol": false,
     "ssl": true,
